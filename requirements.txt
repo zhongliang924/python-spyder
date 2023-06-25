@@ -1,0 +1,7 @@
+bs4
+matplotlib
+wordcloud
+jieba
+PIL
+numpy
+xlwt
